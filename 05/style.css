@@ -1,0 +1,12 @@
+body{
+    background-image:url(test/back2.jpg);
+    background-size: auto;
+    background-size: cover;
+    text-align:center;
+}
+
+h2{
+    /*預留歌曲名稱的顯示空間*/
+    height:32px
+}
+
